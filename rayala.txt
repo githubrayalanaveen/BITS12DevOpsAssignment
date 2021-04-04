@@ -1,2 +1,2 @@
-iThis is the first line of Kaushki Shinghal 
+This is the first line of Kaushki Shinghal| Conflict Resolved
 This is the second line of Rayala Naveen.
